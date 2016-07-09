@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"data": [
+		{
+			"name": "Blackmoor™",
+			"url_ios" : "http://itunes.apple.com/app/id828788777?mt=8",
+			"url_and" : "https://play.google.com/store/apps/details?id=com.mooffgames.blackmoor",
+			"images" : [
+				"",
+				"",
+			]
+		},
+		{
+			"name": "Toon Shooters",
+			"url_ios" : "https://itunes.apple.com/app/toon-shooters/id531282611?mt=8",
+			"images" : [
+				"",
+				"",
+			]
+		},
+		{
+			"name": "Maximus™",
+			"url_ios" : "https://itunes.apple.com/app/maximus/id627873426?mt=8",
+			"images" : [
+				"",
+				"",
+			]
+		},
+	],
+}
