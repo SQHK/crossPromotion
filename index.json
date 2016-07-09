@@ -6,24 +6,33 @@
 			"url_ios" : "http://itunes.apple.com/app/id828788777?mt=8",
 			"url_and" : "https://play.google.com/store/apps/details?id=com.mooffgames.blackmoor",
 			"images" : [
-				"",
-				"",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor1.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor2.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor3.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor4.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor5.jpeg",
 			]
 		},
 		{
 			"name": "Toon Shooters",
 			"url_ios" : "https://itunes.apple.com/app/toon-shooters/id531282611?mt=8",
 			"images" : [
-				"",
-				"",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters1.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters2.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters3.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters4.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters5.jpeg",
 			]
 		},
 		{
 			"name": "Maximus™",
 			"url_ios" : "https://itunes.apple.com/app/maximus/id627873426?mt=8",
 			"images" : [
-				"",
-				"",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus1.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus2.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus3.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus4.jpeg",
+				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus5.jpeg",
 			]
 		},
 	],
