@@ -1,38 +1,42 @@
 {
 	"version": 1,
+	"server_root" : "http://cdn.rawgit.com/mooff/crossPromotion/master",
 	"data": [
 		{
 			"name": "Blackmoor™",
 			"url_ios" : "http://itunes.apple.com/app/id828788777?mt=8",
 			"url_and" : "https://play.google.com/store/apps/details?id=com.mooffgames.blackmoor",
+			"icon_url" : "/images/blackmoor-icon.png",
 			"images" : [
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor1.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor2.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor3.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor4.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/blackmoor5.jpeg",
+				"/images/blackmoor1.jpeg",
+				"/images/blackmoor2.jpeg",
+				"/images/blackmoor3.jpeg",
+				"/images/blackmoor4.jpeg",
+				"/images/blackmoor5.jpeg",
 			]
 		},
 		{
 			"name": "Toon Shooters",
 			"url_ios" : "https://itunes.apple.com/app/toon-shooters/id531282611?mt=8",
+			"icon_url" : "/images/toonshotters-icon.png",
 			"images" : [
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters1.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters2.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters3.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters4.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/toonshooters5.jpeg",
+				"/images/toonshooters1.jpeg",
+				"/images/toonshooters2.jpeg",
+				"/images/toonshooters3.jpeg",
+				"/images/toonshooters4.jpeg",
+				"/images/toonshooters5.jpeg",
 			]
 		},
 		{
 			"name": "Maximus™",
 			"url_ios" : "https://itunes.apple.com/app/maximus/id627873426?mt=8",
+			"icon_url" : "/images/Maximus-icon.png",
 			"images" : [
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus1.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus2.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus3.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus4.jpeg",
-				"http://cdn.rawgit.com/mooff/crossPromotion/master/images/Maximus5.jpeg",
+				"/images/Maximus1.jpeg",
+				"/images/Maximus2.jpeg",
+				"/images/Maximus3.jpeg",
+				"/images/Maximus4.jpeg",
+				"/images/Maximus5.jpeg",
 			]
 		},
 	],
